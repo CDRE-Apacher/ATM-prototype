@@ -1,0 +1,15 @@
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\bin\Debug\netcoreapp3.1\ATM-prototype.exe
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\bin\Debug\netcoreapp3.1\ATM-prototype.deps.json
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\bin\Debug\netcoreapp3.1\ATM-prototype.runtimeconfig.json
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\bin\Debug\netcoreapp3.1\ATM-prototype.runtimeconfig.dev.json
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\bin\Debug\netcoreapp3.1\ATM-prototype.dll
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\bin\Debug\netcoreapp3.1\ATM-prototype.pdb
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\obj\Debug\netcoreapp3.1\ATM_prototype.Form1.resources
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\obj\Debug\netcoreapp3.1\ATM-prototype.csproj.GenerateResource.cache
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\obj\Debug\netcoreapp3.1\ATM-prototype.AssemblyInfoInputs.cache
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\obj\Debug\netcoreapp3.1\ATM-prototype.AssemblyInfo.cs
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\obj\Debug\netcoreapp3.1\ATM-prototype.csproj.CoreCompileInputs.cache
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\obj\Debug\netcoreapp3.1\ATM-prototype.dll
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\obj\Debug\netcoreapp3.1\ATM-prototype.pdb
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\obj\Debug\netcoreapp3.1\ATM-prototype.genruntimeconfig.cache
+Q:\Visual Studio Repos\ATM-prototype\ATM-prototype\ATM-prototype\obj\Debug\netcoreapp3.1\ATM-prototype.csprojAssemblyReference.cache
